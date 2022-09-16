@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mlkauppi
+- 👀 I’m interested in almost everything.
+- 🌱 I’m currently learning to code.
+- 💞️ I’m looking to collaborate on ...?
+- 📫 How to reach me: markus.kauppinen@gmail.com
